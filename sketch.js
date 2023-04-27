@@ -34,7 +34,7 @@ function draw() {
   }
   else if(keyDown(RIGHT_ARROW)){
     updateHeight(10,0);
-    balloon.addAnimation("hotAirBalloon", balloonImage2; //SUBSTITUA OS XXXXXX PELA IMAGEM2 DO BALLOON [LINHA 8]
+    balloon.addAnimation("hotAirBalloon", balloonImage2); //SUBSTITUA OS XXXXXX PELA IMAGEM2 DO BALLOON [LINHA 8]
   }
   else if(keyDown(UP_ARROW)){
     updateHeight(0,-10);
